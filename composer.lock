@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "5dc52443f1a32abdea85e39686fcfc1f",
+    "content-hash": "8485a6c7c2afa7512f71d7fe2142b082",
     "packages": [
         {
             "name": "2amigos/yii2-qrcode-helper",
@@ -550,12 +550,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/kartik-v/yii2-dynagrid.git",
-                "reference": "9d95db7510779ad55bc522fe8d5b8364c6d2c7e5"
+                "reference": "fa8d9d02921cae03c3764e662c961fe01076d37c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/kartik-v/yii2-dynagrid/zipball/9d95db7510779ad55bc522fe8d5b8364c6d2c7e5",
-                "reference": "9d95db7510779ad55bc522fe8d5b8364c6d2c7e5",
+                "url": "https://api.github.com/repos/kartik-v/yii2-dynagrid/zipball/fa8d9d02921cae03c3764e662c961fe01076d37c",
+                "reference": "fa8d9d02921cae03c3764e662c961fe01076d37c",
                 "shasum": ""
             },
             "require": {
@@ -602,7 +602,7 @@
                 "widget",
                 "yii2"
             ],
-            "time": "2016-06-24 00:57:58"
+            "time": "2016-10-16 12:33:42"
         },
         {
             "name": "kartik-v/yii2-export",
@@ -669,12 +669,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/kartik-v/yii2-grid.git",
-                "reference": "c731108f7cc2f37cd76f77af84c869e7dfa636f2"
+                "reference": "448db13904dad68153ef466bbc905b916a2a5900"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/kartik-v/yii2-grid/zipball/c731108f7cc2f37cd76f77af84c869e7dfa636f2",
-                "reference": "c731108f7cc2f37cd76f77af84c869e7dfa636f2",
+                "url": "https://api.github.com/repos/kartik-v/yii2-grid/zipball/448db13904dad68153ef466bbc905b916a2a5900",
+                "reference": "448db13904dad68153ef466bbc905b916a2a5900",
                 "shasum": ""
             },
             "require": {
@@ -711,7 +711,7 @@
                 "widget",
                 "yii2"
             ],
-            "time": "2016-10-08 18:18:35"
+            "time": "2016-10-22 16:52:42"
         },
         {
             "name": "kartik-v/yii2-krajee-base",
@@ -965,12 +965,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/kartik-v/yii2-widget-select2.git",
-                "reference": "a37f76a565e99119ac013fc92ce081ffccb7f858"
+                "reference": "d997e9f112000032e4dea4bbebbc55a966ce3452"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/kartik-v/yii2-widget-select2/zipball/a37f76a565e99119ac013fc92ce081ffccb7f858",
-                "reference": "a37f76a565e99119ac013fc92ce081ffccb7f858",
+                "url": "https://api.github.com/repos/kartik-v/yii2-widget-select2/zipball/d997e9f112000032e4dea4bbebbc55a966ce3452",
+                "reference": "d997e9f112000032e4dea4bbebbc55a966ce3452",
                 "shasum": ""
             },
             "require": {
@@ -1010,7 +1010,7 @@
                 "widget",
                 "yii2"
             ],
-            "time": "2016-10-08 18:27:20"
+            "time": "2016-11-01 16:28:42"
         },
         {
             "name": "miloschuman/yii2-highcharts-widget",
@@ -1018,12 +1018,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/miloschuman/yii2-highcharts.git",
-                "reference": "44fbbc7883112b812e7e3cc2ef807ffb075c0584"
+                "reference": "bbb8e014f917e495dfba624867614bf8f8409c78"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/miloschuman/yii2-highcharts/zipball/44fbbc7883112b812e7e3cc2ef807ffb075c0584",
-                "reference": "44fbbc7883112b812e7e3cc2ef807ffb075c0584",
+                "url": "https://api.github.com/repos/miloschuman/yii2-highcharts/zipball/bbb8e014f917e495dfba624867614bf8f8409c78",
+                "reference": "bbb8e014f917e495dfba624867614bf8f8409c78",
                 "shasum": ""
             },
             "require": {
@@ -1058,7 +1058,7 @@
                 "widget",
                 "yii2"
             ],
-            "time": "2016-10-03 14:06:06"
+            "time": "2016-10-19 16:02:22"
         },
         {
             "name": "phpoffice/phpexcel",
@@ -1172,16 +1172,16 @@
         },
         {
             "name": "yiisoft/yii2",
-            "version": "2.0.9",
+            "version": "2.0.10",
             "source": {
                 "type": "git",
                 "url": "https://github.com/yiisoft/yii2-framework.git",
-                "reference": "2b75151ea60e1fd820046416eee2e89c3dda1133"
+                "reference": "5bfcb7a6dfa9771e2248eb8c4448613330f343ff"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/yiisoft/yii2-framework/zipball/2b75151ea60e1fd820046416eee2e89c3dda1133",
-                "reference": "2b75151ea60e1fd820046416eee2e89c3dda1133",
+                "url": "https://api.github.com/repos/yiisoft/yii2-framework/zipball/5bfcb7a6dfa9771e2248eb8c4448613330f343ff",
+                "reference": "5bfcb7a6dfa9771e2248eb8c4448613330f343ff",
                 "shasum": ""
             },
             "require": {
@@ -1262,7 +1262,7 @@
                 "framework",
                 "yii2"
             ],
-            "time": "2016-07-11 13:36:42"
+            "time": "2016-10-20 12:02:50"
         },
         {
             "name": "yiisoft/yii2-bootstrap",
